@@ -1,0 +1,18 @@
+{
+    "events" : [
+    {
+        "date": "2024-02-07",
+        "event_name": "Febuary Day"
+    },
+
+    {
+        "date": "2024-02-08",
+        "event_name": "Demo Day"
+    },
+
+    {
+        "date": "2024-02-08",
+        "event_name": "Presentation Day"
+    }
+    ]
+}
