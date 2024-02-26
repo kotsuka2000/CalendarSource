@@ -6,8 +6,23 @@
     },
 
     {
+        "date": "2024-002-26",
+        "event_name": "Test Day Calendar Event"
+    },
+
+    {
+        "date": "2024-02-27",
+        "event_name": "Test Day 2 Calendar Event"
+    },
+
+    {
         "date": "2024-03-26",
         "event_name": "Good Friday"
+    },
+
+    {
+        "date": "2024-04-01",
+        "event_name": "April Fools"
     },
 
     {
