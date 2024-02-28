@@ -1,22 +1,22 @@
 {
     "events" : [
     {
-        "date": "2024-02-08",
-        "event_name": "Chinese New Year Holiday"
+        "date": "2024-02-28",
+        "event_name": "Event Day Reminder"
     },
 
     {
-        "date": "2024-02-26",
-        "event_name": "Test Day Calendar Event"
+        "date": "2024-02-29",
+        "event_name": "Event Day Reminder 2"
     },
 
     {
-        "date": "2024-02-27",
-        "event_name": "Test Day 2 Calendar Event"
+        "date": "2024-03-01",
+        "event_name": "Event Day Reminder 3"
     },
 
     {
-        "date": "2024-03-26",
+        "date": "2024-03-29",
         "event_name": "Good Friday"
     },
 
