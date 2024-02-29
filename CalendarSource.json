@@ -2,17 +2,17 @@
     "events" : [
     {
         "date": "2024-02-28",
-        "event_name": "Event Day Reminder"
+        "event_name": "Event Day"
     },
 
     {
         "date": "2024-02-29",
-        "event_name": "Event Day Reminder 2"
+        "event_name": "Event Day 2"
     },
 
     {
         "date": "2024-03-01",
-        "event_name": "Event Day Reminder 3"
+        "event_name": "Event Day 3"
     },
 
     {
